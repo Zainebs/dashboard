@@ -31,10 +31,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[gif](
+[gif](https://imgur.com/a/ZCPHGYZ)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with screenshot  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
