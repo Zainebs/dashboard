@@ -1,0 +1,74 @@
+/* App.css */
+
+/* Add styles for the entire app */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #8a4d4d;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #391b80;
+  border-radius: 5px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  
+}
+
+h1 {
+  font-size: 24px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #791a35;
+}
+
+/* Add styles for the search bar and filters */
+input[type="text"] {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+input[type="number"] {
+  width: 100px;
+  padding: 8px;
+  border: 1px solid #0e0e0e;
+  border-radius: 5px;
+}
+/* Add styles for the "Search" button */
+button {
+  padding: 10px 20px;
+  background-color: #3498db;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2184b9;
+}
+.centered-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+}
+
+.centered-container h1 {
+  margin-bottom: 20px;
+}
+
